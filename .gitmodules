@@ -1,0 +1,24 @@
+[submodule "SpamDetector"]
+	path = SpamDetector
+	url = https://github.com/prdx/SpamDetector
+[submodule "LearningToRank"]
+	path = LearningToRank
+	url = https://github.com/prdx/LearningToRank
+[submodule "IREvaluation"]
+	path = IREvaluation
+	url = https://github.com/prdx/IREvaluation
+[submodule "ModifiedCalaca"]
+	path = ModifiedCalaca
+	url = https://github.com/prdx/ModifiedCalaca
+[submodule "PageRankHITS"]
+	path = PageRankHITS
+	url = https://github.com/prdx/PageRankHITS
+[submodule "PoliteScrapper"]
+	path = PoliteScrapper
+	url = https://github.com/prdx/PoliteScrapper
+[submodule "RetrievalModels"]
+	path = RetrievalModels
+	url = https://github.com/prdx/RetrievalModels
+[submodule "Indexer"]
+	path = Indexer
+	url = https://github.com/prdx/Indexer
